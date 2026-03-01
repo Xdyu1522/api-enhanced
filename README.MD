@@ -54,7 +54,7 @@
 
 ```bash
 git clone https://github.com/neteasecloudmusicapienhanced/api-enhanced.git
-cd api
+cd api-enhanced
 pnpm i
 ```
 
